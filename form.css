@@ -1,0 +1,12 @@
+input [type="placeholder"] {
+    border: 2px solid red;
+}
+*{
+    background-color: lightgreen;
+}
+#head{
+    text-align: center;
+}
+.dolor {
+    background-color: aqua;
+}
